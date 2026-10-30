@@ -78,6 +78,16 @@ gcc campus_route_finder.c -o campus
 | 2 | Main Gate to Auditorium | Shortest route with 3 edges |
 | 3 | Main Gate to Parking | No route exists |
 
+
+## Sample Output
+<img width="1054" height="1280" alt="image" src="https://github.com/user-attachments/assets/12adad27-3804-49ad-9238-ef24d6d6af92" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d152e61-0d49-4aa6-b93e-1e002e4f6cc4" />
+<img width="1112" height="1280" alt="image" src="https://github.com/user-attachments/assets/43822ec4-5b15-4efc-8098-9022dcdad249" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/05f42e35-8a48-4b34-9f1c-87d7cca36786" />
+
+
+
+
 ## Project Objective
 The objective is to understand graph representation, BFS, DFS, queues, recursion, shortest paths, and reachability.
 
